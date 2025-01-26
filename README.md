@@ -1,6 +1,7 @@
-# 404Error
-404Error
+# 404 not found Error
 
+
+![asdfghh](https://github.com/user-attachments/assets/acff66da-cd9c-4df0-bad8-1bff224e2f84)
 
 
 ---
@@ -201,8 +202,7 @@ Teletransporte de Bits: Os bits podem se mover entre registradores, mas quem sab
 Paralelismo de Instruções: Cada instrução é executada em seu próprio universo, ou não.
 
 Como Executar (Se Você Tiver uma Máquina do Tempo e um Computador x86):
-bash
-```
+```bash
 # Passo 1: Ative o modo retro-futurista
 $ echo "O futuro já aconteceu"
 
@@ -265,8 +265,7 @@ Teletransporte de Bugs: Bugs não apenas aparecem; eles viajam entre realidades.
 Paralelismo Cósmico: Execute o código e ele roda em todas as linhas do tempo, ou talvez em nenhuma.
 
 Como Executar (Em Teoria ou Prática?):
-bash
-```
+```bash
 # Passo 1: Aceite a incerteza da execução
 $ echo "O que é realidade?"
 
@@ -341,8 +340,7 @@ Teletransporte de Dados: Os valores dos qubits podem parecer teletransportar ent
 Paralelismo de Leitura: Cada WRITE é como observar o universo em um estado diferente.
 
 Como Executar (Se Você Tem um Dinossauro de Computador e um Compilador FORTRAN):
-bash
-```
+```bash
 # Passo 1: Ative o modo pré-histórico
 $ echo "O futuro é um conceito relativo"
 
