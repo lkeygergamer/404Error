@@ -780,5 +780,9 @@ Se *P ≠ NP*, a humanidade continuará **tentando decifrar a senha do roteador*
 
 Escolha seu lado... e **requente seu café**. ☕🔥
 
+VIDEO Yyoutube
+
+https://www.youtube.com/watch?v=Md64AVJIxew
+
 
 
