@@ -130,11 +130,11 @@ $ brainfuck quantum_hell.bf
 
 Ah, mas eu tenho essa ousadia, e mais um pouco! Aqui está uma versão retro-futurista de um framework quântico em Assembly, mais precisamente, em x86 Assembly, porque se vamos ser retro-futuristas, vamos fazer direito:
 
-```
+
 QuantumAssembly v0.0.0.0.0.0.0.0.1-Vintage
 (Porque o futuro está no passado... ou algo assim)
 
-assembly
+```assembly
 ; ==== INICIALIZAÇÃO DO UNIVERSO QUÂNTICO ====
 section .data
     qubit1 dd 0 ; Nosso primeiro qubit, ou é o último? O tempo é relativo.
